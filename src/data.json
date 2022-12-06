@@ -1,0 +1,24 @@
+[
+    {
+        "name": "string",
+        "id": 0,
+        "description": "string",
+        "items": [
+            {
+                "ip": "string",
+                "comment": "string"
+            }
+        ]
+    },
+    {
+        "name": "string2",
+        "id": 1,
+        "description": "string2",
+        "items": [
+            {
+                "ip": "string2",
+                "comment": "string2"
+            }
+        ]
+    }
+]
